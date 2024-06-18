@@ -1,1 +1,3 @@
-# Designer-of-flasher-with-ESB-52
+# ### Project Description: Design of Flasher with ESB 52 in Altium Designer
+
+In this project, I designed a flasher circuit using the ESB 52 in Altium Designer. The process began with developing detailed schematics for the flasher circuit, ensuring all components were accurately represented. I updated and verified component libraries, focusing on the accuracy of footprints for the ESB 52 and supporting components.I conducted thorough design rule checks (DRC) and electrical rule checks (ERC) to ensure compliance with industry standards. Finally, I generated and validated the complete set of manufacturing outputs and supporting documentation.
